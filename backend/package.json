@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "API entraide pannes + DTC + chat + OBD2 + carnet + parrainage + plugins + analytics",
   "main": "server.js",
-  "engines": { "node": "20.x" },      // Node 20 conseillé
+  "engines": {
+    "node": "20.x"
+  },
   "scripts": {
     "start": "node server.js",
     "dev": "NODE_ENV=development nodemon server.js"

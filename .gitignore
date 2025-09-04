@@ -1,5 +1,4 @@
-﻿# Node / Flutter / caches
-backend/node_modules/
+﻿backend/node_modules/
 auto_entraide_flutter/.dart_tool/
 auto_entraide_flutter/build/
 **/.env
